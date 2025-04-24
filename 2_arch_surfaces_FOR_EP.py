@@ -6,8 +6,8 @@ import json
 import os
 
 # file paths
-input_dir = "1B_pand_jsons_6"
-output_dir = "2B_pand_surfaces_6_EPLUS"
+input_dir = "1B_pand_jsons_8"
+output_dir = "2B_pand_surfaces_8_EPLUS"
 
 os.makedirs(output_dir, exist_ok=True)
 
