@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "CityObjects": {},
+    "metadata": {
+      "referenceSystem": "https://www.opengis.net/def/crs/EPSG/0/7415"
+    },
+    "transform": {
+      "scale": [
+        0.001,
+        0.001,
+        0.001
+      ],
+      "translate": [
+        93536.8501875,
+        441929.1055,
+        -5.124998138427735
+      ]
+    },
+    "type": "CityJSON",
+    "version": "2.0",
+    "vertices": [
+      [
+        0,
+        9140,
+        5125
+      ],
+      [
+        10,
+        0,
+        5125
+      ],
+      [
+        5289,
+        0,
+        5125
+      ],
+      [
+        5299,
+        9140,
+        5125
+      ],
+      [
+        5299,
+        9140,
+        0
+      ],
+      [
+        5289,
+        0,
+        0
+      ],
+      [
+        10,
+        0,
+        0
+      ],
+      [
+        0,
+        9140,
+        0
+      ],
+      [
+        10,
+        0,
+        5729
+      ],
+      [
+        5289,
+        0,
+        5729
+      ],
+      [
+        0,
+        9140,
+        5729
+      ],
+      [
+        5299,
+        9140,
+        5729
+      ],
+      [
+        10,
+        0,
+        5724
+      ],
+      [
+        5289,
+        0,
+        5723
+      ],
+      [
+        0,
+        9140,
+        5730
+      ]
+    ]
+  },
+  "buildings": [
+    {
+      "Pand ID": "0599100000276219",
+      "Archetype ID": "TI.1946-1964",
+      "Status": "Pand in gebruik",
+      "Construction Year": 1956,
+      "Number of Floors": 2,
+      "Roof Type": "horizontal",
+      "Wall Area": 60.57,
+      "Roof Area (Flat)": 48.34,
+      "Roof Area (Sloped)": 0.0,
+      "Floor Area": 48.34,
+      "Shared Wall Area": 104.68,
+      "Ground Elevation (NAP)": -5.125999927520752,
+      "LoD 1.2 Data": {
+        "Building Height (Mean)": 0.6024188995361328,
+        "Building Height (70%)": 0.6035881638526917,
+        "Building Height (Max)": 0.6056920289993286,
+        "Building Height (Min)": 0.5991904139518738
+      },
+      "Boundaries (LoD 1.2)": [
+        [
+          [
+            [
+              [
+                4,
+                5,
+                6,
+                7
+              ]
+            ],
+            [
+              [
+                8,
+                6,
+                5,
+                9
+              ]
+            ],
+            [
+              [
+                10,
+                7,
+                6,
+                8
+              ]
+            ],
+            [
+              [
+                11,
+                4,
+                7,
+                10
+              ]
+            ],
+            [
+              [
+                9,
+                5,
+                4,
+                11
+              ]
+            ],
+            [
+              [
+                9,
+                11,
+                10,
+                8
+              ]
+            ]
+          ]
+        ]
+      ]
+    }
+  ]
+}

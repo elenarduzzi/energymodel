@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "CityObjects": {},
+    "metadata": {
+      "referenceSystem": "https://www.opengis.net/def/crs/EPSG/0/7415"
+    },
+    "transform": {
+      "scale": [
+        0.001,
+        0.001,
+        0.001
+      ],
+      "translate": [
+        93408.154375,
+        432417.72175,
+        -1.548497833251954
+      ]
+    },
+    "type": "CityJSON",
+    "version": "2.0",
+    "vertices": [
+      [
+        0,
+        6158,
+        1549
+      ],
+      [
+        1666,
+        0,
+        1549
+      ],
+      [
+        7935,
+        1690,
+        1549
+      ],
+      [
+        6260,
+        7865,
+        1549
+      ],
+      [
+        6260,
+        7865,
+        0
+      ],
+      [
+        7935,
+        1690,
+        0
+      ],
+      [
+        1666,
+        0,
+        0
+      ],
+      [
+        0,
+        6158,
+        0
+      ],
+      [
+        1666,
+        0,
+        5730
+      ],
+      [
+        7935,
+        1690,
+        5730
+      ],
+      [
+        0,
+        6158,
+        5730
+      ],
+      [
+        6260,
+        7865,
+        5730
+      ],
+      [
+        1666,
+        0,
+        5731
+      ],
+      [
+        7935,
+        1690,
+        5709
+      ],
+      [
+        6260,
+        7865,
+        5709
+      ]
+    ]
+  },
+  "buildings": [
+    {
+      "Pand ID": "0599100000238277",
+      "Archetype ID": "TC.1946-1964",
+      "Status": "Pand in gebruik",
+      "Construction Year": 1953,
+      "Number of Floors": 2,
+      "Roof Type": "multiple horizontal",
+      "Wall Area": 110.28,
+      "Roof Area (Flat)": 41.47,
+      "Roof Area (Sloped)": 0.0,
+      "Floor Area": 41.47,
+      "Shared Wall Area": 37.05,
+      "Ground Elevation (NAP)": -1.5490000247955322,
+      "LoD 1.2 Data": {
+        "Building Height (Mean)": 4.1707444190979,
+        "Building Height (70%)": 4.175333023071289,
+        "Building Height (Max)": 4.182415008544922,
+        "Building Height (Min)": 4.159320831298828
+      },
+      "Boundaries (LoD 1.2)": [
+        [
+          [
+            [
+              [
+                4,
+                5,
+                6,
+                7
+              ]
+            ],
+            [
+              [
+                8,
+                6,
+                5,
+                9
+              ]
+            ],
+            [
+              [
+                10,
+                7,
+                6,
+                8
+              ]
+            ],
+            [
+              [
+                11,
+                4,
+                7,
+                10
+              ]
+            ],
+            [
+              [
+                9,
+                5,
+                4,
+                11
+              ]
+            ],
+            [
+              [
+                9,
+                11,
+                10,
+                8
+              ]
+            ]
+          ]
+        ]
+      ]
+    }
+  ]
+}

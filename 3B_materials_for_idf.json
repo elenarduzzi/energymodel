@@ -1,0 +1,886 @@
+{
+  "TI.1946": {
+    "Infiltration": 0.003,
+    "Materials": [
+      {
+        "Material ID": "G.TI.1946",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 1.0,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.TI.1946",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.8571428571428572,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.TI.1946",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.1,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.TI.1946",
+        "U_Factor": 2.9,
+        "SHGC": 0.6
+      }
+    ]
+  },
+  "TI.1946-1964": {
+    "Infiltration": 0.003,
+    "Materials": [
+      {
+        "Material ID": "G.TI.1946-1964",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 1.0,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.TI.1946-1964",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.8571428571428572,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.TI.1946-1964",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.2777777777777778,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.TI.1946-1964",
+        "U_Factor": 2.9,
+        "SHGC": 0.6
+      }
+    ]
+  },
+  "TI.1965-1974": {
+    "Infiltration": 0.003,
+    "Materials": [
+      {
+        "Material ID": "G.TI.1965-1974",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.8823529411764705,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.TI.1965-1974",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.6976744186046512,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.TI.1965-1974",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.23255813953488375,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.TI.1965-1974",
+        "U_Factor": 2.9,
+        "SHGC": 0.6
+      }
+    ]
+  },
+  "TI.1975-1991": {
+    "Infiltration": 0.003,
+    "Materials": [
+      {
+        "Material ID": "G.TI.1975-1991",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.28846153846153844,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.TI.1975-1991",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.23076923076923075,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.TI.1975-1991",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.15384615384615385,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.TI.1975-1991",
+        "U_Factor": 2.9,
+        "SHGC": 0.6
+      }
+    ]
+  },
+  "TI.1992-2005": {
+    "Infiltration": 0.0015,
+    "Materials": [
+      {
+        "Material ID": "G.TI.1992-2005",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.06,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.TI.1992-2005",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.12,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.TI.1992-2005",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.08,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.TI.1992-2005",
+        "U_Factor": 1.8,
+        "SHGC": 0.4
+      }
+    ]
+  },
+  "TI.2006-2014": {
+    "Infiltration": 0.0015,
+    "Materials": [
+      {
+        "Material ID": "G.TI.2006-2014",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.06,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.TI.2006-2014",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.12,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.TI.2006-2014",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.08,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.TI.2006-2014",
+        "U_Factor": 1.8,
+        "SHGC": 0.4
+      }
+    ]
+  },
+  "TI.2015-2018": {
+    "Infiltration": 0.0015,
+    "Materials": [
+      {
+        "Material ID": "G.TI.2015-2018",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.04285714285714286,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.TI.2015-2018",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.06666666666666667,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.TI.2015-2018",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.03333333333333333,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.TI.2015-2018",
+        "U_Factor": 1.8,
+        "SHGC": 0.4
+      }
+    ]
+  },
+  "TC.1946": {
+    "Infiltration": 0.003,
+    "Materials": [
+      {
+        "Material ID": "G.TC.1946",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 1.0,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.TC.1946",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.8571428571428572,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.TC.1946",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.9090909090909092,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.TC.1946",
+        "U_Factor": 2.9,
+        "SHGC": 0.6
+      }
+    ]
+  },
+  "TC.1946-1964": {
+    "Infiltration": 0.003,
+    "Materials": [
+      {
+        "Material ID": "G.TC.1946-1964",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 1.0,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.TC.1946-1964",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.8571428571428572,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.TC.1946-1964",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.23529411764705885,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.TC.1946-1964",
+        "U_Factor": 1.8,
+        "SHGC": 0.4
+      }
+    ]
+  },
+  "TC.1965-1974": {
+    "Infiltration": 0.003,
+    "Materials": [
+      {
+        "Material ID": "G.TC.1965-1974",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.8823529411764705,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.TC.1965-1974",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.6976744186046512,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.TC.1965-1974",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.23255813953488375,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.TC.1965-1974",
+        "U_Factor": 2.9,
+        "SHGC": 0.6
+      }
+    ]
+  },
+  "TC.1975-1991": {
+    "Infiltration": 0.003,
+    "Materials": [
+      {
+        "Material ID": "G.TC.1975-1991",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.28846153846153844,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.TC.1975-1991",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.23076923076923075,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.TC.1975-1991",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.15384615384615385,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.TC.1975-1991",
+        "U_Factor": 2.9,
+        "SHGC": 0.6
+      }
+    ]
+  },
+  "TC.1992-2005": {
+    "Infiltration": 0.0015,
+    "Materials": [
+      {
+        "Material ID": "G.TC.1992-2005",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.06,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.TC.1992-2005",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.12,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.TC.1992-2005",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.08,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.TC.1992-2005",
+        "U_Factor": 2.9,
+        "SHGC": 0.6
+      }
+    ]
+  },
+  "TC.2006-2014": {
+    "Infiltration": 0.0015,
+    "Materials": [
+      {
+        "Material ID": "G.TC.2006-2014",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.06,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.TC.2006-2014",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.12,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.TC.2006-2014",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.08,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.TC.2006-2014",
+        "U_Factor": 1.8,
+        "SHGC": 0.4
+      }
+    ]
+  },
+  "TC.2015-2018": {
+    "Infiltration": 0.0015,
+    "Materials": [
+      {
+        "Material ID": "G.TC.2015-2018",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.04285714285714286,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.TC.2015-2018",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.06666666666666667,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.TC.2015-2018",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.03333333333333333,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.TC.2015-2018",
+        "U_Factor": 1.8,
+        "SHGC": 0.4
+      }
+    ]
+  },
+  "SD.1965": {
+    "Infiltration": 0.0036,
+    "Materials": [
+      {
+        "Material ID": "G.SD.1965",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 1.0,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.SD.1965",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.8571428571428572,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.SD.1965",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.2777777777777778,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.SD.1965",
+        "U_Factor": 1.8,
+        "SHGC": 0.4
+      }
+    ]
+  },
+  "SD.1965-1974": {
+    "Infiltration": 0.0036,
+    "Materials": [
+      {
+        "Material ID": "G.SD.1965-1974",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.8823529411764705,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.SD.1965-1974",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.6976744186046512,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.SD.1965-1974",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.23255813953488375,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.SD.1965-1974",
+        "U_Factor": 2.9,
+        "SHGC": 0.6
+      }
+    ]
+  },
+  "SD.1975-1991": {
+    "Infiltration": 0.0036,
+    "Materials": [
+      {
+        "Material ID": "G.SD.1975-1991",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.11538461538461538,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.SD.1975-1991",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.23076923076923075,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.SD.1975-1991",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.15384615384615385,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.SD.1975-1991",
+        "U_Factor": 2.9,
+        "SHGC": 0.6
+      }
+    ]
+  },
+  "SD.1992-2005": {
+    "Infiltration": 0.0018,
+    "Materials": [
+      {
+        "Material ID": "G.SD.1992-2005",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.06,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.SD.1992-2005",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.12,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.SD.1992-2005",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.08,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.SD.1992-2005",
+        "U_Factor": 2.9,
+        "SHGC": 0.6
+      }
+    ]
+  },
+  "SD.2006-2014": {
+    "Infiltration": 0.0018,
+    "Materials": [
+      {
+        "Material ID": "G.SD.2006-2014",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.06,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.SD.2006-2014",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.12,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.SD.2006-2014",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.08,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.SD.2006-2014",
+        "U_Factor": 1.8,
+        "SHGC": 0.4
+      }
+    ]
+  },
+  "SD.2015-2018": {
+    "Infiltration": 0.0018,
+    "Materials": [
+      {
+        "Material ID": "G.SD.2015-2018",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.04285714285714286,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.SD.2015-2018",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.06666666666666667,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.SD.2015-2018",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.03333333333333333,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.SD.2015-2018",
+        "U_Factor": 1.8,
+        "SHGC": 0.4
+      }
+    ]
+  },
+  "D.1965": {
+    "Infiltration": 0.004200000000000001,
+    "Materials": [
+      {
+        "Material ID": "G.D.1965",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 1.0,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.D.1965",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.8571428571428572,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.D.1965",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.08,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.D.1965",
+        "U_Factor": 1.8,
+        "SHGC": 0.4
+      }
+    ]
+  },
+  "D.1965-1974": {
+    "Infiltration": 0.004200000000000001,
+    "Materials": [
+      {
+        "Material ID": "G.D.1965-1974",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.8823529411764705,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.D.1965-1974",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.6976744186046512,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.D.1965-1974",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.23255813953488375,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.D.1965-1974",
+        "U_Factor": 2.9,
+        "SHGC": 0.6
+      }
+    ]
+  },
+  "D.1975-1991": {
+    "Infiltration": 0.004200000000000001,
+    "Materials": [
+      {
+        "Material ID": "G.D.1975-1991",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.28846153846153844,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.D.1975-1991",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.23076923076923075,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.D.1975-1991",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.15384615384615385,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.D.1975-1991",
+        "U_Factor": 2.9,
+        "SHGC": 0.6
+      }
+    ]
+  },
+  "D.1992-2005": {
+    "Infiltration": 0.0021000000000000003,
+    "Materials": [
+      {
+        "Material ID": "G.D.1992-2005",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.06,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.D.1992-2005",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.12,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.D.1992-2005",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.08,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.D.1992-2005",
+        "U_Factor": 2.9,
+        "SHGC": 0.6
+      }
+    ]
+  },
+  "D.2006-2014": {
+    "Infiltration": 0.0021000000000000003,
+    "Materials": [
+      {
+        "Material ID": "G.D.2006-2014",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.06,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.D.2006-2014",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.12,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.D.2006-2014",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.08,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.D.2006-2014",
+        "U_Factor": 1.8,
+        "SHGC": 0.4
+      }
+    ]
+  },
+  "D.2015-2018": {
+    "Infiltration": 0.0021000000000000003,
+    "Materials": [
+      {
+        "Material ID": "G.D.2015-2018",
+        "Roughness": "MediumSmooth",
+        "Thickness": 0.15,
+        "Conductivity": 0.04285714285714286,
+        "Density": 540.0,
+        "Specific Heat Capacity": 1210.0
+      },
+      {
+        "Material ID": "F.D.2015-2018",
+        "Roughness": "Rough",
+        "Thickness": 0.3,
+        "Conductivity": 0.06666666666666667,
+        "Density": 1920.0,
+        "Specific Heat Capacity": 840.0
+      },
+      {
+        "Material ID": "R.D.2015-2018",
+        "Roughness": "MediumRough",
+        "Thickness": 0.2,
+        "Conductivity": 0.03333333333333333,
+        "Density": 1500.0,
+        "Specific Heat Capacity": 1000.0
+      },
+      {
+        "Window ID": "W.D.2015-2018",
+        "U_Factor": 1.8,
+        "SHGC": 0.4
+      }
+    ]
+  }
+}

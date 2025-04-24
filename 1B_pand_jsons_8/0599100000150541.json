@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "CityObjects": {},
+    "metadata": {
+      "referenceSystem": "https://www.opengis.net/def/crs/EPSG/0/7415"
+    },
+    "transform": {
+      "scale": [
+        0.001,
+        0.001,
+        0.001
+      ],
+      "translate": [
+        96151.9093125,
+        433191.2615,
+        -0.9994997100830076
+      ]
+    },
+    "type": "CityJSON",
+    "version": "2.0",
+    "vertices": [
+      [
+        0,
+        5440,
+        1000
+      ],
+      [
+        2981,
+        0,
+        1000
+      ],
+      [
+        10111,
+        3910,
+        1000
+      ],
+      [
+        7140,
+        9329,
+        1000
+      ],
+      [
+        2981,
+        0,
+        0
+      ],
+      [
+        0,
+        5440,
+        0
+      ],
+      [
+        7140,
+        9329,
+        0
+      ],
+      [
+        10111,
+        3910,
+        0
+      ],
+      [
+        2981,
+        0,
+        5895
+      ],
+      [
+        10111,
+        3910,
+        5895
+      ],
+      [
+        7140,
+        9329,
+        5895
+      ],
+      [
+        0,
+        5440,
+        5895
+      ],
+      [
+        2981,
+        0,
+        5862
+      ],
+      [
+        10111,
+        3910,
+        5913
+      ],
+      [
+        7140,
+        9329,
+        5913
+      ],
+      [
+        0,
+        5440,
+        5862
+      ]
+    ]
+  },
+  "buildings": [
+    {
+      "Pand ID": "0599100000150541",
+      "Archetype ID": "TI.1946-1964",
+      "Status": "Pand in gebruik",
+      "Construction Year": 1962,
+      "Number of Floors": 2,
+      "Roof Type": "multiple horizontal",
+      "Wall Area": 73.3,
+      "Roof Area (Flat)": 50.35,
+      "Roof Area (Sloped)": 0.0,
+      "Floor Area": 50.34,
+      "Shared Wall Area": 95.35,
+      "Ground Elevation (NAP)": -1.0,
+      "LoD 1.2 Data": {
+        "Building Height (Mean)": 4.8887858390808105,
+        "Building Height (70%)": 4.89906644821167,
+        "Building Height (Max)": 4.9154253005981445,
+        "Building Height (Min)": 4.862371921539307
+      },
+      "Boundaries (LoD 1.2)": [
+        [
+          [
+            [
+              [
+                4,
+                5,
+                6,
+                7
+              ]
+            ],
+            [
+              [
+                8,
+                4,
+                7,
+                9
+              ]
+            ],
+            [
+              [
+                9,
+                7,
+                6,
+                10
+              ]
+            ],
+            [
+              [
+                10,
+                6,
+                5,
+                11
+              ]
+            ],
+            [
+              [
+                11,
+                5,
+                4,
+                8
+              ]
+            ],
+            [
+              [
+                11,
+                8,
+                9,
+                10
+              ]
+            ]
+          ]
+        ]
+      ]
+    }
+  ]
+}

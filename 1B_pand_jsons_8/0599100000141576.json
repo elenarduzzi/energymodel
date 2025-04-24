@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "CityObjects": {},
+    "metadata": {
+      "referenceSystem": "https://www.opengis.net/def/crs/EPSG/0/7415"
+    },
+    "transform": {
+      "scale": [
+        0.001,
+        0.001,
+        0.001
+      ],
+      "translate": [
+        92234.1998125,
+        432091.578,
+        -1.4369988250732426
+      ]
+    },
+    "type": "CityJSON",
+    "version": "2.0",
+    "vertices": [
+      [
+        1741,
+        9859,
+        1437
+      ],
+      [
+        0,
+        1017,
+        1437
+      ],
+      [
+        5290,
+        0,
+        1437
+      ],
+      [
+        7040,
+        8842,
+        1437
+      ],
+      [
+        7040,
+        8842,
+        0
+      ],
+      [
+        5290,
+        0,
+        0
+      ],
+      [
+        0,
+        1017,
+        0
+      ],
+      [
+        1741,
+        9859,
+        0
+      ],
+      [
+        5290,
+        0,
+        6139
+      ],
+      [
+        7040,
+        8842,
+        6139
+      ],
+      [
+        1741,
+        9859,
+        6139
+      ],
+      [
+        0,
+        1017,
+        6139
+      ],
+      [
+        5290,
+        0,
+        6151
+      ],
+      [
+        1741,
+        9859,
+        6127
+      ]
+    ]
+  },
+  "buildings": [
+    {
+      "Pand ID": "0599100000141576",
+      "Archetype ID": "TI.1946-1964",
+      "Status": "Pand in gebruik",
+      "Construction Year": 1957,
+      "Number of Floors": 2,
+      "Roof Type": "horizontal",
+      "Wall Area": 67.17,
+      "Roof Area (Flat)": 48.59,
+      "Roof Area (Sloped)": 0.0,
+      "Floor Area": 48.59,
+      "Shared Wall Area": 109.69,
+      "Ground Elevation (NAP)": -1.437000036239624,
+      "LoD 1.2 Data": {
+        "Building Height (Mean)": 4.7019500732421875,
+        "Building Height (70%)": 4.704681396484375,
+        "Building Height (Max)": 4.7130889892578125,
+        "Building Height (Min)": 4.690730571746826
+      },
+      "Boundaries (LoD 1.2)": [
+        [
+          [
+            [
+              [
+                4,
+                5,
+                6,
+                7
+              ]
+            ],
+            [
+              [
+                8,
+                5,
+                4,
+                9
+              ]
+            ],
+            [
+              [
+                9,
+                4,
+                7,
+                10
+              ]
+            ],
+            [
+              [
+                11,
+                6,
+                5,
+                8
+              ]
+            ],
+            [
+              [
+                10,
+                7,
+                6,
+                11
+              ]
+            ],
+            [
+              [
+                10,
+                11,
+                8,
+                9
+              ]
+            ]
+          ]
+        ]
+      ]
+    }
+  ]
+}

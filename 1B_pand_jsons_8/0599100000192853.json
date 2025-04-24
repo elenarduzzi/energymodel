@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "CityObjects": {},
+    "metadata": {
+      "referenceSystem": "https://www.opengis.net/def/crs/EPSG/0/7415"
+    },
+    "transform": {
+      "scale": [
+        0.001,
+        0.001,
+        0.001
+      ],
+      "translate": [
+        93572.9391875,
+        441929.1355,
+        -5.249998138427735
+      ]
+    },
+    "type": "CityJSON",
+    "version": "2.0",
+    "vertices": [
+      [
+        0,
+        9149,
+        5250
+      ],
+      [
+        10,
+        0,
+        5250
+      ],
+      [
+        5041,
+        0,
+        5250
+      ],
+      [
+        5041,
+        9149,
+        5250
+      ],
+      [
+        10,
+        0,
+        0
+      ],
+      [
+        0,
+        9149,
+        0
+      ],
+      [
+        5041,
+        9149,
+        0
+      ],
+      [
+        5041,
+        0,
+        0
+      ],
+      [
+        10,
+        0,
+        5895
+      ],
+      [
+        5041,
+        0,
+        5895
+      ],
+      [
+        5041,
+        9149,
+        5895
+      ],
+      [
+        0,
+        9149,
+        5895
+      ],
+      [
+        10,
+        0,
+        5872
+      ],
+      [
+        5041,
+        9149,
+        5910
+      ],
+      [
+        0,
+        9149,
+        5886
+      ]
+    ]
+  },
+  "buildings": [
+    {
+      "Pand ID": "0599100000192853",
+      "Archetype ID": "TI.1946-1964",
+      "Status": "Pand in gebruik",
+      "Construction Year": 1956,
+      "Number of Floors": 2,
+      "Roof Type": "horizontal",
+      "Wall Area": 59.76,
+      "Roof Area (Flat)": 46.07,
+      "Roof Area (Sloped)": 0.0,
+      "Floor Area": 46.07,
+      "Shared Wall Area": 107.36,
+      "Ground Elevation (NAP)": -5.250999927520752,
+      "LoD 1.2 Data": {
+        "Building Height (Mean)": 0.6426082849502563,
+        "Building Height (70%)": 0.6479393243789673,
+        "Building Height (Max)": 0.6613538265228271,
+        "Building Height (Min)": 0.6244330406188965
+      },
+      "Boundaries (LoD 1.2)": [
+        [
+          [
+            [
+              [
+                4,
+                5,
+                6,
+                7
+              ]
+            ],
+            [
+              [
+                8,
+                4,
+                7,
+                9
+              ]
+            ],
+            [
+              [
+                9,
+                7,
+                6,
+                10
+              ]
+            ],
+            [
+              [
+                10,
+                6,
+                5,
+                11
+              ]
+            ],
+            [
+              [
+                11,
+                5,
+                4,
+                8
+              ]
+            ],
+            [
+              [
+                11,
+                8,
+                9,
+                10
+              ]
+            ]
+          ]
+        ]
+      ]
+    }
+  ]
+}
