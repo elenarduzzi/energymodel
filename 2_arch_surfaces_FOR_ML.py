@@ -22,8 +22,8 @@ from typing import List, Tuple, Dict, Any
 
 # ADJUST INPUT / OUTPUT DIRECTORY PER ARCHETYPE 
 
-INPUT_DIR  = pathlib.Path("1B_pand_jsons_21")
-OUTPUT_DIR = pathlib.Path("2A_pand_surfaces_21")
+INPUT_DIR  = pathlib.Path("1B_pand_jsons_6")
+OUTPUT_DIR = pathlib.Path("2A_pand_surfaces_6_ML")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 # ── helpers ───────────────────────────────────────────────────────────
