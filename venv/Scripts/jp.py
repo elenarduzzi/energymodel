@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!D:\el_update\energymodel\venv\Scripts\python.exe
+=======
+#!C:\thesis\energymodel\venv\Scripts\python.exe
+>>>>>>> ed0e74a9b604b445c1c4308aa8fb4faad69fcebb
 
 import sys
 import json

@@ -1,0 +1,21 @@
+Program Version,EnergyPlus, Version 24.2.0-94a887817b, YMD=2025.04.24 13:20,
+   ** Warning ** BuildingSurface:Detailed="G_5", Sun Exposure="SUNEXPOSED".
+   **   ~~~   ** ..This surface is not exposed to External Environment.  Sun exposure has no effect.
+   ** Severe  ** For zone: ZONE_0599100000195117 it is not possible to calculate the volume from the surrounding surfaces so either provide the volume value or define all the surfaces to fully enclose the zone.
+   ** Warning ** Indicated Zone Volume <= 0.0 for Zone=ZONE_0599100000195117
+   **   ~~~   ** The calculated Zone Volume was=0.00
+   **   ~~~   ** The simulation will continue with the Zone Volume set to 10.0 m3. 
+   **   ~~~   ** ...use Output:Diagnostics,DisplayExtraWarnings; to show more details on individual zones.
+   ** Warning ** CalculateZoneVolume: 1 zone is not fully enclosed. For more details use:  Output:Diagnostics,DisplayExtrawarnings; 
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ************* Simulation Error Summary *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 3 Warning; 1 Severe Errors; Elapsed Time=00hr 00min  1.75sec
