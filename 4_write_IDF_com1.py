@@ -8,8 +8,8 @@ import boto3
 
 # paths & config
 idd_path = "C:/EnergyPlusV24-2-0/Energy+.idd"
-input_dir = "2B_pand_surfaces_6_EPLUS"
-output_dir = "4B_pand_idfs_6"
+input_dir = "2B_pand_surfaces_7_EPLUS"
+output_dir = "4B_pand_idfs_7"
 materials_file_path = "3B_materials_for_idf.json"
 base_idf_path = "4A_rotterdam_simple.idf"
 S3_BUCKET = ""  # e.g. "my-energyplus-idfs"
